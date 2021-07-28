@@ -28,7 +28,7 @@ export default function Home() {
           </p>
         </article>
         <div className="mx-auto p-10">
-         <a  className="hover:underline hover:text-blue-700 text-xl uppercase" href="https://api.whatsapp.com/send/?phone=5548998114079">👋 Say Hello</a>
+         <a  className=" font-semibold hover:underline hover:text-blue-700 text-xl uppercase" href="https://api.whatsapp.com/send/?phone=5548998114079">👋 Say Hello</a>
         </div>
       </main>
     </>
