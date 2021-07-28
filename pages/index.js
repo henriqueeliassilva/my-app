@@ -27,7 +27,7 @@ export default function Home() {
             Crio websites, aplicativos para web e integro as melhores tecnologias para ajudar empresas a crescerem.
           </p>
         </article>
-        <div className="mx-auto">
+        <div className="mx-auto p-10">
          <a  className="hover:underline hover:text-blue-700 text-xl uppercase" href="https://api.whatsapp.com/send/?phone=5548998114079">👋 Say Hello</a>
         </div>
       </main>
