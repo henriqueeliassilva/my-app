@@ -19,10 +19,10 @@ export default function Home() {
            <h1 className="text-center">Henrique Elias Silva
            </h1>
           <p>
-          Web developer with +10 years of experience building websites, web applications, and connecting technologies to help companies grow.
+          Web designer and web developer with +10 years of experience building websites, web applications, and connecting technologies to help companies grow.
           </p>
           <p>
-          Desenvolvedor web com mais de 10 anos de experiência criando websites, aplicativos para web e integrando tecnologias para ajudar empresas a crescerem.
+          Web designer e web developer com mais de 10 anos de experiência criando websites, aplicativos para web e integrando tecnologias para ajudar empresas a crescerem.
           </p>
         </article>
         <div className="mx-auto p-10">
