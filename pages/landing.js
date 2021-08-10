@@ -6,7 +6,7 @@ function Type () {
                             </h1>
                             <p className=" text-center mb-5 text-lg md:text-2xl text-white">Cadastre-se para mais informações.</p>
                         </div>
-                        <div className="bg-gray-800 p-11 rounded">
+                        <div className="bg-gray-800 p-8 rounded">
                                     <form  method="POST" action="https://henrique94039.activehosted.com/proc.php" id="_form_1_"  noValidate> 
                                             <input type="hidden" name="u" value="1" />
                                             <input type="hidden" name="f" value="1" />
