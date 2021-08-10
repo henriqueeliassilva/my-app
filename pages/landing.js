@@ -2,9 +2,9 @@ function Type () {
     return <>
             <div className="p-4 bg-gray-900 min-h-screen flex flex-col items-center justify-center">
                         <div>
-                            <h1 className="text-transparent bg-gradient-to-r bg-clip-text  from-blue-500 to-green-500 text-5xl md:text-7xl font-bold mx-auto max-w-6xl">Cadastre-se
+                            <h1 className="text-transparent bg-gradient-to-r bg-clip-text  from-blue-500 to-green-500 text-5xl md:text-8xl font-bold mx-auto max-w-6xl">Cadastre-se
                             </h1>
-                            <p className=" text-center mb-5 text-lg text-white">Cadastre-se para mais informações.</p>
+                            <p className=" text-center mb-5 text-lg md:text-2xl text-white">Cadastre-se para mais informações.</p>
                         </div>
                         <div className="bg-gray-800 p-11 rounded">
                                     <form  method="POST" action="https://henrique94039.activehosted.com/proc.php" id="_form_1_"  noValidate> 
