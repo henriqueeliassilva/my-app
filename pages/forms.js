@@ -16,12 +16,12 @@ function Forms () {
                       <div>
                       <h1 class="mb-8 text-3xl text-center">Cadastre-se</h1>
 
-                        <input className=" border  border-gray-200 w-full p-3 rounded mb-4" type="text" id="fullname" name="fullname" placeholder="Digite seu nome" />
+                        <input className="w-full border border-gray-200  p-3 rounded mb-4" type="text" id="fullname" name="fullname" placeholder="Digite seu nome" />
                       </div>
                     </div>
                     <div>
                       <div>
-                        <input className="border border-gray-200 w-full p-3 rounded mb-4" type="text" id="email" name="email" placeholder="Digite seu e-mail" required/>
+                        <input className="w-full border border-gray-200  p-3 rounded mb-4" type="text" id="email" name="email" placeholder="Digite seu e-mail" required/>
                       </div>
                     </div>
                     <div>
